@@ -1,0 +1,74 @@
+﻿name,material type,test or train,spall_median,class,uts_median,yield_median,comp_median,bulk_median,shear_median,young_median,dens_median,hard_median,frac_median
+Silver,metal,train,1.23,low,159,70,173,101,28,75,10.5,25,73
+Aluminum,metal,train,1.12,low,94,58,30,73,26,70,2.7,15,30
+Aluminum [100],metal,train,1.02,low,35,17,29,71,16,44,2.7,14,0
+Aluminum [111],metal,train,1.17,low,74,18,47,83,20,70,2.7,15,0
+Aluminum 1060-O,alloy,train,1.19,low,69,28,60,74,27,71,2.7,22,10
+Aluminum 1100-O,alloy,train,1.35,medium,90,35,96,78,26,69,2.7,23,11
+Aluminum 2014-T6,alloy,train,1.62,medium,483,414,470,72,28,73,2.8,155,19
+Aluminum 2024-T4,alloy,test,1.19,low,469,324,353,68,27,73,2.8,137,32
+Aluminum 2024-T81,alloy,train,0.6,low,492,454,466,72,28,72,2.8,146,27
+Aluminum 2024-T86,alloy,train,1.9,medium,499,444,448,74,28,73,2.8,155,28
+Aluminum 2139-T8,alloy,train,1.45,medium,505,487,469,78,27,73,2.8,170,46
+Aluminum 5083-H116,alloy,train,0.89,low,290,207,290,72,27,72,2.7,88,49
+Aluminum 6061-T6,alloy,train,1.3,low,310,276,267,75,27,72,2.7,107,29
+Aluminum 7075-T6,alloy,test,1.6,medium,572,503,494,70,27,72,2.8,175,25
+Gold,metal,train,2.03,medium,137,34,205,169,28,78,19.1,22,90
+Beryllium,metal,train,0.9,low,370,240,270,114,134,295,1.8,170,11
+Be S200F,alloy,train,0.59,low,324,241,207,162,135,303,1.9,175,11
+Cerium,metal,test,0.4,low,102,91,200,22,13,36,6.7,24,55
+Cobalt,metal,train,3.2,high,675,225,687,193,79,210,8.8,253,135
+Cobalt Haynes 25 (L605),alloy,train,2,medium,977,460,298,188,87,236,9.1,260,135
+CoCrFeNi,alloy,train,3.19,high,413,147,136,169,85,219,8.2,135,25
+Chromium,metal,train,0.65,low,760,370,308,168,114,285,7.2,90,135
+CrCoNi,alloy,train,3.97,high,1090,930,354,207,84,222,8.3,136,132
+CrMnFeCoNi,alloy,train,2.12,medium,600,265,294,144,80,203,7.9,212,135
+Copper OFHC,metal,train,1.7,medium,223,66,62,140,46,125,8.9,50,70
+Cu-1Pb,alloy,train,0.79,low,220,76,65,136,47,127,8.9,50,69
+Cu-24Ag,alloy,train,1.42,medium,207,67,90,136,46,124,9.1,99,71
+Cu-15Nb,alloy,train,1.77,medium,223,69,66,143,39,108,8.9,130,70
+GRCop-84,alloy,test,2.9,high,445,236,162,140,44,119,8.7,132,65
+Brass 60-40,alloy,train,1.4,medium,510,379,181,107,39,103,8.4,42,49
+Beryllium Bronze,alloy,train,2.48,medium,500,190,66,143,45,127,8.4,52,69
+Copper Tantalum,alloy,train,0.36,low,226,70,262,147,48,131,9.3,55,75
+Al(0.1)CoCrFeNi,alloy,train,3.69,high,531,199,307,172,81,211,8.1,140,135
+FeCrNiMn,alloy,train,1.52,medium,513,229,196,118,83,202,7.7,201,135
+Iron,metal,test,1.84,medium,345,152,165,167,81,211,7.9,150,145
+Fe40Mn20Cr20Ni20,alloy,train,2.28,medium,694,306,190,133,77,195,7.9,150,137
+Fe50Mn30Co10Cr10,alloy,train,2.1,medium,763,410,254,144,80,202,6.7,259,217
+1018 CRS ,alloy,train,1.71,medium,458,323,538,163,82,273,7.8,131,43
+Steel 1020,alloy,test,2.05,medium,450,285,221,148,72,186,7.9,149,95
+Steel 1045,alloy,train,4.07,high,595,530,415,159,79,200,7.9,188,50
+Steel 4340 Rc52,alloy,train,5.3,high,1958,950,642,159,77,210,7.8,360,50
+A36,alloy,train,1.96,medium,475,250,152,163,83,238,7.8,131,147
+24CrNiMo Steel,alloy,train,4.09,high,1146,952,1480,161,83,212,7.8,376,68
+AF9628 Steel,alloy,test,5.5,high,1728,1320,1440,165,80,208,7.8,490,129
+Dual Phase Steel 590,alloy,train,2.95,high,602,394,445,195,88,228,7.8,127,180
+Duplex SS 2205,alloy,train,4.9,high,621,460,520,161,79,195,7.8,310,170
+Lean Duplex SS 2101,alloy,train,2.6,high,694,480,529,167,77,200,7.7,306,100
+SS 304,alloy,train,2.32,medium,510,228,258,151,76,193,7.9,129,174
+SS 316L,alloy,train,2.58,high,515,222,170,162,77,196,8,155,195
+SS 2169,alloy,train,5.77,high,717,376,689,153,77,198,7.8,180,310
+Magnesium,metal,train,0.85,low,133,21,21,49,34,44,1.7,38,13
+AMX 602,alloy,train,1.01,low,369,305,305,34,19,47,1.8,103,40
+Magnesium AZ31B-H24,alloy,train,1.5,medium,170,220,230,37,17,44,1.8,70,12
+Magnesium AZ31B-4E,alloy,train,0.9,low,241,152,97,38,17,44,1.8,49,19
+Molybdenum,metal,train,0.55,low,352,446,285,272,120,337,10.2,230,30
+Niobium,metal,train,3.92,high,284,349,493,169,48,103,8.6,80,46
+Nickel,metal,train,0.5,low,345,69,70,194,76,202,8.9,65,125
+AlCoCrFeNi(2.1),alloy,train,3.35,high,1165,750,517,169,70,185,7.4,34,112
+Ni3Al,alloy,train,0.44,low,842,188,198,181,76,203,7.4,382,28
+Ni-60Co,alloy,train,0.69,low,543,162,440,187,81,213,8.8,178,131
+Inconel625,alloy,test,3.7,high,919,471,460,220,66,196,8.4,525,174
+Ni 55 Ti 44,alloy,train,2.71,high,307,422,548,159,22,63,6.5,63,91
+Tantalum,metal,train,4.77,high,258,103,135,205,69,186,16.5,100,120
+Titanium,metal,train,3.6,high,268,144,150,111,39,105,4.5,60,58
+gamma TiAl,alloy,train,1.77,medium,1193,1011,1100,126,68,172,4,431,15
+Ti-10V-2Fe-3Al,alloy,train,3.12,high,1307,1190,1160,107,35,94,4.6,450,47
+Ti-6Al-4V,alloy,train,4.2,high,1004,812,790,107,49,121,4.5,340,48
+Uranium,metal,train,2.4,medium,400,228,268,92,78,184,19,190,130
+Vanadium,metal,train,4.4,high,440,411,295,163,50,147,6.1,159,37
+Tungsten,metal,train,1.1,low,1325,750,1350,311,158,406,19.3,310,135
+Tungsten heavy alloy (WHA),alloy,train,3.63,high,1036,928,1151,283,134,353,17.8,310,41
+90W-7Ni-3Fe,alloy,train,3.8,high,888,600,1320,440,134,328,17.1,261,97
+ZrE110,alloy,train,3.12,high,290,160,292,99,33,95,6.6,1600,4
