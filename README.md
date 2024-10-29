@@ -1,2 +1,2 @@
-# Spall Strength Prediction of Metals & Alloys using a GPR model
-This is the code for the paper "Machine Learning for Predictive Understanding of Spall Strength of Metals and Alloys". It has the dataset of all metals and alloys and the GPR model.
+# Spall Strength Prediction of Metals & Alloys
+This is the code for the paper "A Machine Learning Approach to Predict and Understand Spall Strength of Metals and Alloys". It has the dataset of all metals and alloys and the GPR model.
